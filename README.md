@@ -56,11 +56,11 @@ public/
 ## Preview
 ### Signin Page
 
-![Signin Page](./public/screenshots/signin.png)
+![Signin Page](./public/signin_page.png)
 
 ### KYC Page
 
-![KYC Page](./public/screenshots/kyc.png)
+![KYC Page](./public/kyc_page/kyc.png)
 ---
 
 ## Getting Started

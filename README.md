@@ -60,7 +60,7 @@ public/
 
 ### KYC Page
 
-![KYC Page](./public/kyc_page/kyc.png)
+![KYC Page](./public/kyc_page.png)
 ---
 
 ## Getting Started
